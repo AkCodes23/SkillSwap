@@ -20,7 +20,7 @@ export default function LoginPage() {
   const { login, isLoading, isAuthenticated } = useAuth() // Get isLoading and isAuthenticated from useAuth
   const router = useRouter()
 
-  // Redirect if already authenticated
+  // Redirect if it is already authenticated
   useEffect(() => {
     if (isAuthenticated) {
       router.push("/")
