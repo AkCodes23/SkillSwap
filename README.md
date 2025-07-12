@@ -14,7 +14,7 @@
 
 ## 🌐 Live Preview
 
-🔗 [**Live Site**](#)  
+🔗 [**Live Site**](https://v0-skillswap-platform-git-main-qucryptofficial-5907s-projects.vercel.app/)  
 🎥 [**Demo Video**](#)
 
 ---
